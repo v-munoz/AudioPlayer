@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AudioPlayer</string>
+    <string name="home_fragment">PlayList Online</string>
+    <string name="action_close">Tanca l\'aplicació</string>
+    <string name="addmedia_fragment">Afegir nou àudio</string>
+    <string name="url_hint">URL de l\'àudio</string>
+    <string name="add_btn">Afegir</string>
+    <string name="name_hint">Nom de l\'àudio</string>
+    <string name="media_name">Nom del fitxer d\'àudio</string>
+    <string name="toast_media_added">L\'àudio s\'ha guardat correctament</string>
+    <string name="toast_media_failed">Error en afegir el fitxer d\'àudio</string>
+    <string name="media_cover">Imatge de portada</string>
+    <string name="hint_back">Torna a l\'inici</string>
+    <string name="toast_url_error">La URL no conté un fitxer d\'àudio vàlid</string>
+    <string name="action_clear_playlist">Eliminar tots els fitxers d\'àudio</string>
+    <string name="toast_DeleteAll">La llista de reproducció s\'ha buidat correctament</string>
+    <string name="audio_time">00:00</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="media_url">URL del fitxer d\'àudio</string>
+</resources>

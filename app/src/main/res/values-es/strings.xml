@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AudioPlayer</string>
+    <string name="action_close">Cerrar aplicación</string>
+    <string name="home_fragment">PlayList Online</string>
+    <string name="addmedia_fragment">Añadir nuevo audio</string>
+    <string name="url_hint">URL del audio</string>
+    <string name="hint_back">Volver a inicio</string>
+    <string name="toast_url_error">La URL no contiene un archivo de audio válido</string>
+    <string name="action_clear_playlist">Eliminar todos los archivos de audio</string>
+    <string name="toast_DeleteAll">La playlist se vació con exito</string>
+    <string name="audio_time">00:00</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="media_url">URL del archivo de audio</string>
+    <string name="add_btn">Añadir</string>
+    <string name="name_hint">Nombre del audio</string>
+    <string name="media_name">Nombre del archivo de audio</string>
+    <string name="toast_media_added">El audio se guardó correctamente</string>
+    <string name="toast_media_failed">Error al añadir el archivo de audio</string>
+    <string name="media_cover">Imagen de portada</string>
+</resources>

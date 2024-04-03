@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AudioPlayer</string>
+    <string name="action_close">Close app</string>
+    <string name="home_fragment">PlayList Online</string>
+    <string name="addmedia_fragment">Add new media</string>
+
+
+    <string name="url_hint">URL of the audio</string>
+    <string name="media_url">URL of the media file</string>
+    <string name="add_btn">Add</string>
+    <string name="name_hint">Name of the audio</string>
+    <string name="media_name">Name of the media file</string>
+
+    <string name="toast_media_added">The file was successfully saved</string>
+    <string name="toast_media_failed">Failed to add the media file</string>
+    <string name="media_cover">Media cover image</string>
+
+    <string name="hint_back">Return to home page</string>
+    <string name="toast_url_error">The URL does not contain any valid audio file</string>
+    <string name="action_clear_playlist">Delete all media</string>
+    <string name="toast_DeleteAll">Playlist cleared successfully</string>
+    <string name="audio_time">00:00</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+</resources>

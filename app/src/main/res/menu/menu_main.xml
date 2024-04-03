@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.victormp.audioplayer.MainActivity">
+    <item
+        android:id="@+id/action_clear_playlist"
+        android:orderInCategory="100"
+        android:title="@string/action_clear_playlist"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_close"
+        android:orderInCategory="100"
+        android:title="@string/action_close"
+        app:showAsAction="never" />
+</menu>
